@@ -14,10 +14,15 @@ Each section combines clear theoretical explanations with **practical coding exa
 ## 📚 Learning Path
 
 1️⃣ **Data Visualization** Exploring and understanding data using charts and plots
+
 2️⃣ **Data Preprocessing** Cleaning, encoding, and preparing data for modeling
+
 3️⃣ **Model Fitting (Underfitting & Overfitting)** Understanding model complexity and performance
+
 4️⃣ **Basic ML Models** Implementing classical algorithms step-by-step
+
 5️⃣ **Model Evaluation** Measuring accuracy and analyzing performance metrics
+
 6️⃣ **Mini Projects** Applying learned concepts to real-world datasets
 
 ---
