@@ -6,19 +6,19 @@
 
 ## 🎯 Project Overview
 
-This repository provides a **complete, hands-on learning path** for mastering Machine Learning using Python — from the very basics to advanced topics.
+This repository provides a **complete, hands-on learning path** for mastering Machine Learning using Python from the very basics to advanced topics.
 Each section combines clear theoretical explanations with **practical coding examples**, real-world datasets, and visual insights to help you truly understand how Machine Learning works in practice.
 
 ---
 
 ## 📚 Learning Path
 
-1️⃣ **Data Visualization** — Exploring and understanding data using charts and plots
-2️⃣ **Data Preprocessing** — Cleaning, encoding, and preparing data for modeling
-3️⃣ **Model Fitting (Underfitting & Overfitting)** — Understanding model complexity and performance
-4️⃣ **Basic ML Models** — Implementing classical algorithms step-by-step
-5️⃣ **Model Evaluation** — Measuring accuracy and analyzing performance metrics
-6️⃣ **Mini Projects** — Applying learned concepts to real-world datasets
+1️⃣ **Data Visualization** Exploring and understanding data using charts and plots
+2️⃣ **Data Preprocessing** Cleaning, encoding, and preparing data for modeling
+3️⃣ **Model Fitting (Underfitting & Overfitting)** Understanding model complexity and performance
+4️⃣ **Basic ML Models** Implementing classical algorithms step-by-step
+5️⃣ **Model Evaluation** Measuring accuracy and analyzing performance metrics
+6️⃣ **Mini Projects** Applying learned concepts to real-world datasets
 
 ---
 
